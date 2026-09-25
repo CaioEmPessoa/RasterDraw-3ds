@@ -16,4 +16,4 @@ I have not tested it on another 3ds model other than the old one, but it should 
 
 ## Project showcase:
 
-![Video showcasing the project](./showcase.mp4)
+![Video showcasing the project](./showcase.gif)
