@@ -15,5 +15,5 @@ If you're on linux you can run the 'make_run.sh' script. It have some options, i
 I have not tested it on another 3ds model other than the old one, but it should work too.
 
 ## Project showcase:
-
+(If the video appears to be laggy, its probably because I recorded it as a GIF. Natively it runs very smoothly)
 ![Video showcasing the project](./showcase.gif)
